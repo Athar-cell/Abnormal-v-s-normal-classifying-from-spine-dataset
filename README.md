@@ -1,1 +1,0 @@
-# Abnormal-v-s-normal-classifying-from-spine-dataset
